@@ -2,7 +2,7 @@
 
 This repository contains two Java projects demonstrating **software design patterns** and **practical mini-projects**. It showcases clean code, OOP principles, and real-world problem-solving.  
 
-## rojects Included  
+## Projects Included  
 
 ### Astronaut Schedule  
 - Task scheduling system for astronauts  
