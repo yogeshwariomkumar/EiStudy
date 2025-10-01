@@ -1,22 +1,36 @@
-# DesignPatternsWithProjects
+# EiStudy  
 
-This repository contains two Java projects demonstrating software design patterns and practical mini-projects.
+This repository contains two Java projects demonstrating **software design patterns** and **practical mini-projects**. It showcases clean code, OOP principles, and real-world problem-solving.  
 
-## Projects Included
+## rojects Included  
 
-### 1. Astronaut Schedule
-- Scheduling system for astronaut tasks
-- Demonstrates Observer Pattern and OOP best practices
-- Features: task creation, task monitoring, flexible updates
+### Astronaut Schedule  
+- Task scheduling system for astronauts  
+- Demonstrates **Observer Pattern** and OOP best practices  
+- Features:  
+  - Add, remove, and view tasks  
+  - Task priorities  
+  - Conflict detection & notifications  
+  - Mark tasks as completed  
 
-### 2. Design Patterns Project
-- Collection of examples showcasing Creational, Structural, and Behavioral design patterns
-- Real-world inspired examples like Investor notifications, Logger Singleton, Adapter for compatibility
+### Design Patterns Project  
+- Examples of **Creational, Structural, and Behavioral** design patterns  
+- Real-world inspired examples:  
+  - Investor notifications (**Observer**)  
+  - Logger (**Singleton**)  
+  - Media player compatibility (**Adapter**)  
+  - Payment processing (**Strategy**)  
+- Organized by package:  
+  - `behavioral/` – Observer, Strategy, etc.  
+  - `creational/` – Singleton, Factory, etc.  
+  - `structural/` – Adapter, Decorator, etc.  
 
-## How to Run
-1. Open the project in IntelliJ IDEA.
-2. Make sure Maven is configured.
-3. Run the `Main` class of each project to test functionality.
+## Technologies Used  
+- Java 21  
+- Maven  
+- IntelliJ IDEA (recommended IDE)  
 
-## Author
-YOGESHWARI N O, Student of K.L.N. College of Engineering
+## How to Run  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yogeshwariomkumar/EiStudy.git
