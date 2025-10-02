@@ -18,6 +18,7 @@ This Java project is a **console-based application** to help astronauts manage t
 5. Run the project by specifying the main class:
 
    mvn exec:java -Dexec.mainClass="com.example.astronaut.Main"
+
 6. Follow the console menu to manage astronaut tasks.
 ## Author
 YOGESHWARI N O  
